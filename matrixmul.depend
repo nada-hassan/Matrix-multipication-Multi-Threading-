@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621225541 source:/home/nada/Downloads/matrixmul/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<unistd.h>
+	<math.h>
+	<sys/time.h>
+
